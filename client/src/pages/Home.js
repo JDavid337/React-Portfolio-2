@@ -1,11 +1,13 @@
 import React from 'react'
-
+import Card from '../components/Card/Card'
 function Home() {
 
     return (
         <div>
-            <h1>Hello from the homepage</h1>
+            <Card />
         </div>
+        
+
     )
 }
 
