@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# React-Portfolio-2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Welcome to my React Profile!  This single page application was built using react and bootstrap.  It showcases a page listing my skills learned as a web developer during the course of the DU Coding Bootcamp, a brief bio, a portfolio page demonstrating the apps I have either single-handedly built or collaborated on, a link to my resume, and contact information.
 
-In the project directory, you can run:
+# Skills learned
 
-### `npm start`
+On the 'J.Z. Davidson' page, you will find a picture of me standing in front of Eleven Mile Reservoir, as I am an avid fisherman.  Below the picture you will see a list of skills aquired while taking the DU Coding Bootcamp.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![screenshot](client/public/images/JZ-Davidson.png)
+<br>
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# About Me
 
-### `npm test`
+In the 'About Me' section, you'll see a picture of me from JAX restaurant (excellent seafood) and a short bio basically just giving a brief background of who I am.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![screenshot](client/public/images/AboutMe.png)
 
-### `npm run build`
+# Portfolio
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In the 'Portfolio' page, you will find several different projects that I have worked on, either by myself or with other people, while attending the DU Coding Boot Camp.  Each project displays a screenshot of what part of the app looks like, the name of the app, the github link to the repo, and a link to the deployed app.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![screenshot](client/public/images/Portfolio.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Resume 
 
-### `npm run eject`
+On the 'Resume' page, the user can click on the button titled "Resume" to be redirected to my resume as it is stored on Google Drive.  Another button, "Return to Home Page," is displayed under the "Resume" button, to return the user back to the home page once they have finished reviewing my resume.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![screenshot](client/public/images/Resume.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+The 'Contact' page provides fields where a user can enter their name, e-mail address (which is never shared with anybody), and leave me a comment, question, or concern!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![screenshot](client/public/images/Contact.png)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This app was developed by J.Z. Davidson
+With the assistance of Andrew Hardemon, assigned tutor,
+and Joey Davidson, brother.
+July 2021. DU Coding Boot Camp. All rights reserved.

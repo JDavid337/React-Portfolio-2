@@ -9,7 +9,7 @@ function Footer() {
                 <div id="main" class="container clear-top">
         </div>
     </div>
-<footer class="footer" style={{backgroundColor:'blanchedalmond'}}>TEST</footer>
+<footer class="footer" style={{backgroundColor:'blanchedalmond'}}>A Shaz-Bot Production. All Rights Reserved.</footer>
         </div>
         </>
     )

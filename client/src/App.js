@@ -12,26 +12,32 @@ import './App.css'
 
 const projects = [
   {
-    img: 'BudgetTracker.png',
-    github: 'https://github.com/JDavid337/Progressive-Budget-Tracker'
+    name: 'Budget Tracker',
+    img: './images/BudgetTracker.png',
+    github: 'https://github.com/JDavid337/Progressive-Budget-Tracker',
+    deployed: 'www.tofollow.com'
   },
   {
-    img: 'ChosenOutfit.png',
+    name: 'Chosen Outfit',
+    img: './images/ChosenOutfit.png',
     github: 'https://github.com/JDavid337/Project-3/tree/main',
     deployed: 'https://infinite-fjord-75479.herokuapp.com/'
   },
   {
-    img: 'ExpressNoteTaker.png',
+    name: 'Express Note Taker',
+    img: './images/ExpressNoteTaker.png',
     github: 'https://github.com/JDavid337/express-note-jotter',
     deployed:  'https://express-note-jotter-jzd.herokuapp.com/'
   },
   {
-    img: 'LyricFinder',
+    nanme: 'Lyric Finder',
+    img: './images/LyricFinder.png',
     github: 'https://github.com/Lyndseyfin/Lyric-finder',
     deployed:  'https://lyndseyfin.github.io/Lyric-finder/'
   },
   {
-    img: 'Tripr.png',
+    name: 'Tripr',
+    img: './images/Tripr.png',
     github: 'https://github.com/JDavid337/Project-2-Travel-Green',
     deployed:  'https://tripr-project2.herokuapp.com/'
   },
@@ -55,7 +61,7 @@ function App() {
             </Route>
 
             <Route exact path={'/Portfolio'}>
-              <Portfolio />
+              <Portfolio projects={projects}/>
             </Route>
 
             <Route exact path={'/AboutMe'}>
