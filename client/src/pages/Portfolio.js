@@ -1,5 +1,4 @@
 import React from 'react'
-import Card2 from '../components/Card/Card2'
 
 function Portfolio() {
     return (
@@ -8,7 +7,6 @@ function Portfolio() {
             <br>
             </br>
             <h2>
-                <Card2/>
             </h2>
         </div>
     )

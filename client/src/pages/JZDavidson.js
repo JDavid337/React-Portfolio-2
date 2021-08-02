@@ -3,7 +3,7 @@ import Card from '../components/Card/Card'
 function JZDavidson() {
     return (
         <div>
-            <Card />
+            <img src="/images/JSunrise.png"></img>
         </div>
     )
 }
